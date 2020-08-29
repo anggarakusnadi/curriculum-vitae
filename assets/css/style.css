@@ -1,0 +1,239 @@
+/*body {
+    width: 100%;
+    margin: 0;
+    padding-top: 0;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+}
+
+.header-top {
+    background-color:rgba(34, 49, 52, 0.9);
+    color: #fff;
+    height: 65px;
+    margin: 0;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.header-logo {
+    float: left;
+    font-size: 24px;
+    padding: 17px 20px;
+    cursor: pointer;
+  }
+  
+.header-list li {
+    float: left;
+    padding: 8px 20px;  
+    display: block; 
+}
+
+.header {
+    padding: 180px 0 100px 0;
+    background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    background-size: cover;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.container h2 {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color: #5f5d60;
+    font-weight: normal;
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+.table th {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 12px;
+    background-color: #4caf50;
+}
+
+.table td {
+    text-align: left;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+.table tr:hover {
+    background-color: #ddd;
+}
+
+.form-data {
+    background-size: cover;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.form-data h2 {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color: #5f5d60;
+    font-weight: normal;
+    text-align: center;
+}
+
+.formisi {
+    width: fit-content;
+    margin: auto;
+}
+
+.button {
+    margin: auto;
+}*/
+
+.selectData {
+    display: inline-block;
+    font-weight: 400;
+    background-color: #ffc107;
+    color: #212529;
+    border-color: #ffc107;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 0.375rem 0.75rem;
+    margin: auto;
+    border: 1px solid transparent;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.selectData:hover {
+    color: #212529;
+    background-color: #e0a800;
+    border-color: #d39e00;
+}
+
+.selectData:focus, .selectData.focus {
+    color: #212529;
+    background-color: #e0a800;
+    border-color: #d39e00;
+    box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0.5);
+  }
+  
+  .selectData.disabled, .selectData:disabled {
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .selectData:not(:disabled):not(.disabled):active, .selectData:not(:disabled):not(.disabled).active,
+  .show > .selectData.dropdown-toggle {
+    color: #212529;
+    background-color: #d39e00;
+    border-color: #c69500;
+  }
+  
+  .selectData:not(:disabled):not(.disabled):active:focus, .selectData:not(:disabled):not(.disabled).active:focus,
+  .show > .selectData.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0.5);
+  }
+
+/*#tambah {
+    background-color: dodgerblue;
+    color: ghostwhite;
+    padding: 10px 15px;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#tambah:hover {
+    background-color: #5bc0de;
+}
+
+#edit {
+    background-color: #f0ad4e;
+    color: ghostwhite;
+    padding: 10px 15px;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#edit:hover {
+    background-color: #f1b555;
+}
+
+#hapus {
+    background-color: #f44336;
+    color: ghostwhite;
+    padding: 10px 15px;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#hapus:hover {
+    background-color: #f5554f;
+}
+
+#bersih {
+    background-color: #32cd32;
+    color: ghostwhite;
+    padding: 10px 15px;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#bersih:hover {
+    background-color: #22ff32;
+}
+
+#kembali {
+    background-color: #808080;
+    color: ghostwhite;
+    padding: 10px 15px;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#kembali:hover {
+    background-color: #abaca9;
+}
+
+.footer{
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+.footer p {
+    color: #77667e;
+    font-size: 12px;
+    text-align: center;
+}*/
